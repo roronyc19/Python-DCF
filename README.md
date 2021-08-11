@@ -6,7 +6,7 @@
 
 ## * Once growth assumptions are inputted, a DCF analysis is performed and the program outputs the calcultions and a final fair value price to an excel file
 
-# How to run
+## How to run
 
 ## 1.) Naviagate to "statementscraper.py" file
 
@@ -24,3 +24,6 @@
 ## 3.) Once satisfied with assumptions, navigate to "cashflowmaker.py"
 
 ### * Once again, ensure the "company" variable matches the company ticker you want the DCF for 
+### * Run the file and find the final output in an excel file named '{ticker} Cash Flow.xlsx'
+
+Hope this helps. Enjoy!
