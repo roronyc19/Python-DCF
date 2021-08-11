@@ -25,7 +25,7 @@ import os
 import urllib.request 
 
 # Change this
-company = 'AAPL'
+company = 'FB'
 
 # My API Key -- if this runs out replace with new key by creating
 # free account at financialmodelingprep.com
