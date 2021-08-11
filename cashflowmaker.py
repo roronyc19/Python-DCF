@@ -15,7 +15,7 @@ containing the dcf calculations and final output
 import pandas as pd
 
 # ensure this 
-company = 'AAPL'
+company = 'FB'
 
 fins = pd.read_excel(f"{company} financials formatted.xlsx" ,index_col = 0, sheet_name=0)
 inc = pd.read_excel(f"{company} financials formatted.xlsx",index_col = 0, sheet_name=1)
